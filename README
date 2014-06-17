@@ -46,15 +46,21 @@ SEE ALSO
 AUTHOR
     Robert Rothenberg <rrwo at cpan.org>
 
-  Suggestions and Bug Reporting
-    Feedback is always welcome. Please use the CPAN Request Tracker at
-    http://rt.cpan.org to submit bug reports.
+  Contributors
+    Martin McGrath
 
-ACKNOWLEDGEMENTS
+  Acknowledgements
     Some of the code comes from self module (by Kang-min Liu). The data for
     the media types is based on the Debian `mime-support' package,
     http://packages.debian.org/mime-support, although with *many* changes
     from the original.
+
+  Suggestions and Bug Reporting
+    Feedback is always welcome. Please use the CPAN Request Tracker at
+    http://rt.cpan.org to submit bug reports.
+
+    The git repository for this module is at
+    https://github.com/robrwo/Media-Types-Simple.
 
 COPYRIGHT & LICENSE
     Copyright 2009-2014 Robert Rothenberg, all rights reserved.
