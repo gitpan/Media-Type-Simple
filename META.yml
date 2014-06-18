@@ -24,10 +24,10 @@ no_index:
     - xt
 requires:
   Carp: 0
+  Exporter::Lite: 0
   File::Share: 0
   File::ShareDir: 0
   Storable: 0
-  Sub::Exporter: 0
   perl: 5.01
   version: 0.77
 resources:
@@ -35,4 +35,4 @@ resources:
   homepage: http://rrwo.tumblr.com
   license: http://www.perlfoundation.org/artistic_license_2_0
   repository: git://github.com/robrwo/Media-Types-Simple.git
-version: 0.030004
+version: 0.030006
